@@ -1,4 +1,9 @@
 # Feegoo Desafio
+<b>Features que pretendia e que não consegui terminar pelo tempo:
+* Documentação das rotas utilizando Swagger.
+* Docker do Backend
+* CI/CD Utilizando as actions do github e subindo na Azure ou Amazon (processo parecido com o projeto treino-azure-typescript em meu github)</b>
+
 Para rodar o projeto pós baixar o repositório:
 
 # Frontend
@@ -53,8 +58,3 @@ O frontend é dependente do backend, precisa ter ambos rodando simultaneamente p
 <b>URL:</b> baseURL/api/schedules/{id}<br />
 <b>Descrição:</b> Rota de deletar schedules por ID<br />
 <b>Método</b>: DELETE
-
-<b>Features que pretendia e que não consegui terminar pelo tempo:
-* Documentação das rotas utilizando Swagger.
-* Docker do Backend
-* CI/CD Utilizando as actions do github e subindo na Azure ou Amazon (processo parecido com o projeto treino-azure-typescript em meu github)</b>
