@@ -1,0 +1,30 @@
+.card_professional {
+  border-radius: 15px !important;
+  border: 2px solid #eee;
+  background-color: white;
+  width: 100%;
+  padding: 15px;
+  margin: 15px 0px;
+}
+
+.photo_professional {
+  width: 45px;
+  height: 45px;
+  border-radius: 100%;
+}
+
+.box_professional {
+  padding-left: 15px;
+}
+
+.name_professional {
+  font-size: 18px;
+  font-weight: 700;
+  color: #111;
+}
+
+.crm_professional {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 10px;
+}

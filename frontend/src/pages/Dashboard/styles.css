@@ -1,0 +1,16 @@
+.app-header {
+  background-color: #4c9bd8;
+}
+.app-header-title {
+  color: white;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+option:first {
+  color: #999;
+}
+
+select {
+  color: #999;
+}
