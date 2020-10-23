@@ -1,8 +1,4 @@
-# Feegoo Desafio
-<b>Features que pretendia e que não consegui terminar pelo tempo:
-* Documentação das rotas utilizando Swagger.
-* Docker do Backend
-* CI/CD Utilizando as actions do github e subindo na Azure ou Amazon (processo parecido com o projeto treino-azure-typescript em meu github)</b>
+# Documentação
 
 # Como rodar
 Para rodar o projeto pós baixar o repositório, siga os seguintes passos:
@@ -18,7 +14,7 @@ Ficará disponível também no endereço: <b>http://localhost:3000</b>
 Instalar os pacotes do composer e do npm, você pode fazer isso com o comando <b>npm install && composer install</b> dentro da pasta backend<br />
 Criar uma cópia do .env.example para .env<br />
 Configurar as variáveis do env de acordo com o seu banco mysql local ou docker(com imagem do mysql)<br />
-Configurar a variável FEEGOW_TOKEN(token dado por vocês) no .env<br />
+Configurar a variável da api Feegow(FEEGOW_TOKEN) no .env<br />
 Rodar o comando <b>php artisan key:generate</b> e em seguida <b>php artisan serve</b>
 
 ## Atenção
